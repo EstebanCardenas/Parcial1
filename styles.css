@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;;
+}
+
+div > a > img {
+    width: 10%;
+}
+
+div[class*="navbar navbar-light"] {
+    text-align: center;
+}
+
+div[class="card-body"] > p:nth-child(3) {
+    font-weight: bold;
+}

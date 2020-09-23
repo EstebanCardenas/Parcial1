@@ -20,7 +20,7 @@ div[class="card-body"] > p:nth-child(3) {
     font-weight: bold;
 }
 
-div + p {
+footer {
     margin-top: 35px;
     text-align: center;
 }

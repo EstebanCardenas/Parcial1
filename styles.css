@@ -19,3 +19,27 @@ div[class*="navbar navbar-light"] {
 div[class="card-body"] > p:nth-child(3) {
     font-weight: bold;
 }
+
+div + p {
+    margin-top: 35px;
+    text-align: center;
+}
+
+a[class="nav-link"] {
+    padding: 25px;
+}
+
+/*clases*/
+.cancel {
+    background-color: #FB575B;
+    border: 1px solid rgb(173,223,223);
+}
+
+.confirm {
+    background-color: #F3E8DD;
+    border: 1px solid black;
+}
+
+[id="confirm"] {
+    margin-right: 120px;
+}
